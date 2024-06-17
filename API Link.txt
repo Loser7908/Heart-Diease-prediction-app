@@ -1,0 +1,1 @@
+https://heart-api-529cb092bb9b.herokuapp.com/predict
